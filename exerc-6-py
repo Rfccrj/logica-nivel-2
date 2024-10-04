@@ -1,0 +1,4 @@
+numero = int(input("qual a base do retangulo? "))
+numero = int(input("qual a altura do retangulo "))
+
+print ("\na area do retangulo e: ", numero*numero )
